@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ServerWinForms
+</name>
+</assembly>
+<members>
+<member name="P:Server.My.Resources.Resources.ResourceManager">
+	<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member><member name="P:Server.My.Resources.Resources.Culture">
+	<summary>
+  Bu türü kesin olarak belirtilmiş kaynak sınıfını kullanarak geçerli iş parçacığının
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member><member name="T:Server.My.Resources.Resources">
+	<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+</members>
+</doc>

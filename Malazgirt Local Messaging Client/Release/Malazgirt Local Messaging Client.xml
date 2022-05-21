@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MalazgirtLocalMessagingClient
+</name>
+</assembly>
+<members>
+<member name="P:local_hack_lab.My.Resources.Resources.ResourceManager">
+	<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Culture">
+	<summary>
+  Bu türü kesin olarak belirtilmiş kaynak sınıfını kullanarak geçerli iş parçacığının
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources._25231">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources._32">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources._Stop">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.adam">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Aktif">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.atom">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Ayar">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Ayar_2">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.cropped_vay_canına_ana_düz_2">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.ctf">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.ctffson">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.dosya">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.geri_getir">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.icon">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Kaydet">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.mail">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.medium">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.okey">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Okey2ı">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.pasif">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.pics">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.simge">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.tekrar">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.Uydu">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="P:local_hack_lab.My.Resources.Resources.yükle2">
+	<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member><member name="T:local_hack_lab.My.Resources.Resources">
+	<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+</members>
+</doc>
